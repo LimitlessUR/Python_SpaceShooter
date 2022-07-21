@@ -7,7 +7,6 @@ s = down
 SPACE = shoot laser 
 
 import module Pygame 
-100% Python 
 
 Keep game pics/icons in "Assets" Folder outside of your main.py folder 
 
