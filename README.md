@@ -1,5 +1,6 @@
-# Python_SpaceShooter
+# Python SpaceShooter
 `Controls`
+
 w = up 
 a = left 
 d = right 
