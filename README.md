@@ -11,7 +11,7 @@ import module Pygame
 
 Keep game pics/icons in "Assets" Folder outside of your main.py file
 
-In terminal: 
+In terminal: Run `python main.py`  Mac Users Run: `python3 main.py`
 
 Helpful Link to learn the Pygame basics: https://pythonguides.com/python-pygame-tutorial/
 
