@@ -7,7 +7,7 @@ d = right
 s = down 
 SPACE = shoot laser 
 
-import module Pygame 
+OOP Documentation: https://realpython.com/python3-object-oriented-programming/
 
 Keep game pics/icons in "Assets" Folder outside of your main.py file
 
