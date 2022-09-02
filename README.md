@@ -7,7 +7,7 @@ d = right
 s = down 
 SPACE = shoot laser 
 
-OOP Documentation: https://realpython.com/python3-object-oriented-programming/
+OOP(Object Oriented Programming) Documentation: https://realpython.com/python3-object-oriented-programming/
 
 Keep game pics/icons in "Assets" Folder outside of your main.py file
 
